@@ -1,5 +1,7 @@
-package com.bu.aft;
+package com.bu.aft.controllers;
 
+import com.bu.aft.repo.TodoRepository;
+import com.bu.aft.entities.Todo;
 import org.springframework.http.HttpStatus;
 import org.springframework.web.bind.annotation.*;
 

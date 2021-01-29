@@ -1,5 +1,6 @@
-package com.bu.aft;
+package com.bu.aft.repo;
 
+import com.bu.aft.entities.Todo;
 import org.springframework.data.repository.CrudRepository;
 import org.springframework.stereotype.Repository;
 

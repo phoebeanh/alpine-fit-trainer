@@ -1,4 +1,4 @@
-package com.bu.aft;
+package com.bu.aft.entities;
 
 import org.springframework.data.annotation.Id;
 

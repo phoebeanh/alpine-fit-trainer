@@ -56,10 +56,10 @@
         <configuration>
           <schemaVersion>v2</schemaVersion>
           <subscriptionId>45f33044-cdbe-4339-a54b-4cc2fd442b6c</subscriptionId>
-          <resourceGroup>aft-1611876845021-rg</resourceGroup>
-          <appName>aft-1611876845021</appName>
+          <resourceGroup>alpine-fit-trainer-rg</resourceGroup>
+          <appName>alpine-fit-trainer</appName>
           <pricingTier>B1</pricingTier>
-          <region>westeurope</region>
+          <region>westus</region>
           <runtime>
             <os>Linux</os>
             <javaVersion>Java 8</javaVersion>
